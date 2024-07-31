@@ -34,7 +34,6 @@ class KmpLibraryPlugin : Plugin<Project> {
             macosX64()
             // watchOS
             watchosX64()
-            watchosX86()
             watchosArm32()
             watchosArm64()
             watchosSimulatorArm64()
